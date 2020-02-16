@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAR Game", "WAR Game\WAR Game.csproj", "{30E3323D-F1FA-43C2-A553-C14342A5FCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E3323D-F1FA-43C2-A553-C14342A5FCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E3323D-F1FA-43C2-A553-C14342A5FCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E3323D-F1FA-43C2-A553-C14342A5FCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E3323D-F1FA-43C2-A553-C14342A5FCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A674DC7A-EC9C-48FD-A629-38AE2A7002F8}
+	EndGlobalSection
+EndGlobal
